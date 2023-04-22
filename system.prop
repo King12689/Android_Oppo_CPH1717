@@ -1,0 +1,3 @@
+ro.sf.lcd_density=320
+ro.mediatek.platform=MT6755
+ro.hardware=mt6755
